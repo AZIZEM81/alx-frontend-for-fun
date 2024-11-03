@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 50vh;
+    align-items: center;
+}
+
+.box {
+    color: white;
+}
+
+.box1 {
+    background-color: green;
+    flex-basis: 5%;
+    font-size: 2rem;
+}
+
+.box2 {
+    background-color: blue;
+    flex-basis: 15%;
+    font-size: 7rem;
+}
+
+.box3{
+    background-color: gray;
+    flex-basis: 30%;
+    font-size: 12rem;
+}
+
+.box4 {
+    background-color: purple;
+    flex-basis: 15%;
+    font-size: 7rem;
+}
+
+.box5 {
+    background-color: orange;
+    flex-basis: 5%;
+    font-size: 2rem;
+}
